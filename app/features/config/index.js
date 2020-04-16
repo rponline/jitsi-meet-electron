@@ -8,22 +8,22 @@ export default {
     /**
      * The URL to the source code repository.
      */
-    sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
+    sourceURL: 'https://github.com/rponline/jitsi-meet-electron',
 
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'meet.circus.town (Jitsi Meet)',
 
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://meet.circus.town',
 
     /**
      * URL to send feedback.
      */
-    feedbackURL: 'mailto:support@jitsi.org',
+    feedbackURL: 'mailto:clown@circus.town',
 
     /**
      * The URL of Privacy Policy Page.
